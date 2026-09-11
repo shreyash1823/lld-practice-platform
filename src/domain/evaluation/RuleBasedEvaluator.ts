@@ -32,7 +32,7 @@ export class RuleBasedEvaluator implements Evaluator {
         evidence,
         concern,
         suggestion,
-        confidence: score >= 4 ? "high" : score >= 3 ? "medium" : "low",
+        confidence: score >= 4 ? ("high" as const) : score >= 3 ? ("medium" as const) : ("low" as const),
       };
     });
 
