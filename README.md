@@ -15,9 +15,9 @@ The project was intentionally designed as a small monolith for a 2-day implement
 
 ## Demo
 
-**Live Demo:** `YOUR_VERCEL_URL`
+**Live Demo:** `https://lld-practice-platform-delta.vercel.app/`
 
-**Repository:** `YOUR_GITHUB_REPOSITORY_URL`
+**Repository:** `https://github.com/shreyash1823/lld-practice-platform`
 
 ---
 
